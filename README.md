@@ -8,4 +8,4 @@ The script is forked from [this script](https://openuserjs.org/scripts/nickpapou
 
 ## How to use
 1. Install and run [FilimoPlus](https://github.com/Saeed-Pooyanfar/filimo-plus) locally.
-2. Run the script in your browser of choice either by copying the source provided in this repository or by installing it from Greasyfork.
+2. Install and run the script from Greasy Fork.
