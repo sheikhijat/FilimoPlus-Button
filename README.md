@@ -1,4 +1,4 @@
-# FilimoPlus-Button
+# FilimoPlus Button
 A simple button to help you download from filimo.com using [FilimoPlus](https://github.com/Saeed-Pooyanfar/filimo-plus).
 
 ## What is it?
