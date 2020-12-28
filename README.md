@@ -8,7 +8,5 @@ The script is forked from [this script](https://openuserjs.org/scripts/nickpapou
 
 ## How to use
 1. Install and run [FilimoPlus](https://github.com/Saeed-Pooyanfar/filimo-plus) locally.
-2. Install and run the script from Greasy Fork in your browser of choice.
+2. Install and run the script from [Greasy Fork](https://greasyfork.org/en/scripts/419310-filimoplus-button) in your browser of choice.
 3. A button will now appear in every movie/series page on filimo.com to take you directly into the page equivalent in FilimoPlus.
-
-## Example Photo
